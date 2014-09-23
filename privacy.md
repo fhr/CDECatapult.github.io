@@ -108,3 +108,16 @@ How to reject or delete this cookie:
 http://www.google.com/intl/en/privacypolicy.html
  
 ## Crazy Egg cookies
+Connected Digital Economy Catapult uses Crazy Egg Analytics, a web
+analytics service provided by Crazy Egg, Inc. Crazy Egg sets a
+cookie in order to evaluate your use of the site.
+
+Crazy Egg stores the information collected by the cookie on servers whcih may be located outside of the UK. 
+Crazy Egg may also transfer this information to third
+parties where required to do so by law, or where such third parties
+process the information on Crazy Eggs's behalf. By using the site,
+you consent to the processing of data about you by Crazy Egg in the
+manner and for the purposes set out above.
+
+Crazy Egg sets one cookie value in order to track whether a visitor is new or returning. 
+A “returning” visitor is one that has previously visited any tracked page on your domain within the last 5 years.
