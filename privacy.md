@@ -107,3 +107,4 @@ manner and for the purposes set out above.
 How to reject or delete this cookie:
 http://www.google.com/intl/en/privacypolicy.html
  
+## Crazy Egg cookies
