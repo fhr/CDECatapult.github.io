@@ -23,11 +23,6 @@ intended to demonstrate to public and private sector data
 owners the economic and service enhancements possible through
 opening and integrating data by using common standards.
 
-In future months, you can expect to see new health
-related data sets, maps, integration tools and functionality
-added to the site. We will decide what to incorporate based
-largely on your feedback to this beta launch, so please do
-get in touch.
 
 ### Methodology
 This site takes data from sources like the [Health and
