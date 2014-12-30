@@ -9,7 +9,7 @@ page_title: About the Platform
 
 github_repo: https://github.com/CDECatapult/
 public_issue_tracker: https://github.com/CDECatapult/CDECatapult.github.io/issues
-contact_email: theteam@mastodonc.com
+contact_email: healthdata@cde.org.uk
 
 cdec_url: https://cde.catapult.org.uk
 mastodon_c_url: http://www.mastodonc.com
@@ -29,7 +29,3 @@ This site takes data from sources like the [Health and
 Social Care Information Centre (HSCIC)](http://www.hscic.gov.uk)
 and shows how it can be turned into visualisations and analysis
 to answer specific questions for your organisation.
-This is the BETA version of the site, which shows how
-to take a small number of datasets including data about
-GP prescriptions and diabetes prevalence to show the extent
-of diabetes treatment in the UK.
